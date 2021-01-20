@@ -109,3 +109,5 @@ If everything went well, you have up to date entites and a `migrations` table li
 
 @SeeAlso https://github.com/typeorm/typeorm/blob/master/docs/migrations.md  
 @SeeAlso https://github.com/typeorm/typeorm/blob/master/docs/using-cli.md#notes-on-entity-files-written-in-typescript  
+
+@SeeAlso https://github.com/typestack/class-transformer#plaintoclass To convert entity to dto
